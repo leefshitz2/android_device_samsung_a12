@@ -30,11 +30,11 @@ on:
       DEVICE_TREE:
         description: 'Device Tree'
         required: true
-        default: 'https://github.com/unasir008/android_device_samsung_a12-s5'
+        default: 'https://github.com/leefshitz2/android_device_samsung_a12'
       DEVICE_TREE_BRANCH:
         description: 'Device Tree Branch'
         required: true
-        default: 'A125FXXS5CXE3'
+        default: 'main'
       DEVICE_PATH:
         description: 'Specify your Device Path'
         required: true
